@@ -32,7 +32,7 @@ Until then, please cite this dataset repository:
 ```bibtex
 @inproceedings{towards_explainable_roman_urdu,
   title     = {Towards Explainable Hate Speech Detection in Roman Urdu},
-  author    = {[Ubaid Azam∗, Hammad Rizwan∗, Faizad Ullah, Ali Faheem, Faisal Kamiran, Asim Karim]},
+  author    = {[Ubaid Azam*, Hammad Rizwan*, Faizad Ullah, Ali Faheem, Faisal Kamiran, Asim Karim]},
   booktitle = {Proceedings of the International Joint Conference on Neural Networks},
   year      = {2026},
   note      = {Accepted; publication forthcoming}
