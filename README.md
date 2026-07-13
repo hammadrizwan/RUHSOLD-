@@ -8,9 +8,9 @@ The dataset accompanies the paper **“Towards Explainable Hate Speech Detection
 
 RUHSOLD++ extends the original RUHSOLD dataset by:
 
-* introducing hate-intensity labels on a five-point scale;
-* adding samples collected after a temporal gap from the original dataset; and
-* supporting the evaluation of hate-speech detection models over time.
+* Introducing hate-intensity annotations using a five-point scale;
+* Identifying the specific text spans that constitute hate speech; and
+* Collecting additional samples after a temporal gap from the original dataset to support the evaluation of hate-speech detection models over time.
 
 For binary classification, the five-point intensity labels should be grouped as follows:
 
